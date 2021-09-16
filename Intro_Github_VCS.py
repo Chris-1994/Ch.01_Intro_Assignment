@@ -225,30 +225,29 @@ I enjoy coding
 
 This is the Master Branch
 hard save, check point. Save in the file.
-me
-what is your favorite oclor?
+
 
 
 
 
 ------------------Student 23------------------
 
-fafaafafa
-
-THis is my man
 
 
-
-
-
-
-------------------Student 24------------------
+This is the testing branch
+Marc Hermon
+Favorite color is blue
 
 
 
 
+------------------Student 24--fafa----------------
 
 
+
+
+THIS is my testing, golden man
+fafa
 
 
 
