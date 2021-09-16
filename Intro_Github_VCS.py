@@ -8,7 +8,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Student 01------------------
-Kai - test
+Kai - test1
 I don't even know what I am doing right now and this is a very confusing
 hoobie doobie doo
 
@@ -223,7 +223,8 @@ I enjoy coding
 
 
 
-
+This is the Master Branch
+hard save, check point. Save in the file.
 
 
 
